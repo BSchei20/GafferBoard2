@@ -49,4 +49,3 @@ body {
 .red { background: #e63946; }
 .blue { background: #0077b6; }
 .ball { width: 22px; height: 22px; background: #fff; border: 2px solid #222; z-index: 60; border-radius: 50%; color: transparent; }
-
